@@ -7,6 +7,16 @@
 - <b>Cisco Packer Tracer</b>
   - [Virtual Home Lab](https://github.com/moeramadan/)  
 
+- <b>Microsoft Azure</b>
+  - [SIEM Setup](https://github.com/moeramadan/)
+  - [Virtual Active Directory Environment in Azure ](https://github.com/moeramadan/)
+
+- <b>Powershell</b>
+  - [File Integrity Monitor](https://github.com/moeramadan/)
+
+- <b>Nessus</b>
+  - [Vulnerability Management Lab](https://github.com/moeramadan/)
+
 <h2>📜 Certifications</h2>
 
 - Google IT Support Professional
