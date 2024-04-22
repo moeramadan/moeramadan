@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/moeramadan">IT Support Technician</a>, <a href="https://www.linkedin.com/in/mohdramadan/">Cybersecurity Junior</a>
+<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/moeramadan">System Administrator</a>, <a href="https://www.linkedin.com/in/mohdramadan/">Cybersecurity Junior</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
