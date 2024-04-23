@@ -1,5 +1,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Remote-Keylogger</b>
+  - Developed a remote keylogger in Python disguised as a photo, enabling remote transmission of captured keystrokes.
+  - Implemented techniques including executable compilation and WinRAR packaging for stealthy operation.
+  - [Remote-Keylogger Repository](https://github.com/moeramadan/remote-keylogger) (Click for project details)
+
 - <b>WiFi Network Penetration Testing: Intrusion, Reconnaissance, and Traffic Monitoring</b>
   - Utilized Wireshark, nmap, hashcat, and ettercap for network penetration testing, intrusion, reconnaissance, and traffic monitoring.
   - [Network Intrusion Documentation](https://github.com/moeramadan/Network-Intrusion) (Click for project details)
