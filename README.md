@@ -4,12 +4,6 @@
 - <b>Gophish</b>
   - [GoPhish Landing Pages](https://github.com/moeramadan/GoPhish-Landing-Pages)
 
-- <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/moeramadan/)
-
-- <b>Cisco Packer Tracer</b>
-  - [Virtual Home Lab](https://github.com/moeramadan/)  
-
 - <b>Microsoft Azure</b>
   - [SIEM Setup](https://github.com/moeramadan/)
   - [Virtual Active Directory Environment in Azure ](https://github.com/moeramadan/)
