@@ -1,8 +1,14 @@
 <h1>Hi, I'm Mohammad! <br/><a href="https://github.com/moeramadan">System Administrator</a>, <a href="https://www.linkedin.com/in/mohdramadan/">Cybersecurity Junior</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>WiFi Network Penetration Testing: Intrusion, Reconnaissance, and Traffic Monitoring</b>
+  - Utilized Wireshark, nmap, hashcat, and ettercap for network penetration testing, intrusion, reconnaissance, and traffic monitoring.
+  - [Network Intrusion Documentation](https://github.com/moeramadan/Network-Intrusion) (Click for project details)
+
 - <b>Gophish</b>
-  - [GoPhish Landing Pages](https://github.com/moeramadan/GoPhish-Landing-Pages)
+  - Developed custom HTML landing pages for phishing campaigns.
+  - Implemented in a real case scenario in my organization.
+  - [GoPhish Landing Pages Repository](https://github.com/moeramadan/GoPhish-Landing-Pages) (Click for published HTML code)
 
 - <b>Microsoft Azure</b>
   - [SIEM Setup](https://github.com/moeramadan/)
