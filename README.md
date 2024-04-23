@@ -14,7 +14,7 @@
   - Implemented in a real case scenario in my organization.
   - [GoPhish Landing Pages Repository](https://github.com/moeramadan/GoPhish-Landing-Pages) (Click for published HTML code)
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure Sentinel SIEM</b>
   - Configured and deployed a SIEM solution using Azure Sentinel.
   - Hands-on experience with Azure resources such as virtual machines, Log Analytics Workspaces, and Azure Sentinel.
   - Understanding of Windows Security Event logs and utilization of KQL for log querying.
