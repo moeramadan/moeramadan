@@ -1,4 +1,3 @@
-<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/moeramadan">System Administrator</a>, <a href="https://www.linkedin.com/in/mohdramadan/">Cybersecurity Junior</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>WiFi Network Penetration Testing: Intrusion, Reconnaissance, and Traffic Monitoring</b>
@@ -11,8 +10,11 @@
   - [GoPhish Landing Pages Repository](https://github.com/moeramadan/GoPhish-Landing-Pages) (Click for published HTML code)
 
 - <b>Microsoft Azure</b>
-  - [SIEM Setup](https://github.com/moeramadan/)
-  - [Virtual Active Directory Environment in Azure ](https://github.com/moeramadan/)
+  - Configured and deployed a SIEM solution using Azure Sentinel.
+  - Hands-on experience with Azure resources such as virtual machines, Log Analytics Workspaces, and Azure Sentinel.
+  - Understanding of Windows Security Event logs and utilization of KQL for log querying.
+  - Displayed attack data on a dashboard with Workbooks using Azure Sentinel.
+  - [SIEM Setup with Azure Sentinel](https://github.com/moeramadan/Azure-Sentinel-SIEM-Attack-Maps) (Click for project details)
 
 - <b>Powershell</b>
   - [File Integrity Monitor](https://github.com/moeramadan/)
