@@ -21,11 +21,12 @@
   - Displayed attack data on a dashboard with Workbooks using Azure Sentinel.
   - [SIEM Setup with Azure Sentinel](https://github.com/moeramadan/Azure-Sentinel-SIEM-Attack-Maps) (Click for project details)
 
+- <b>Nessus Vulnerability Management</b>
+  - Created and executed a comprehensive Vulnerability Management Lab utilizing Nessus for vulnerability assessment and remediation.
+  - [Vulnerability Management Lab Repository](https://github.com/moeramadan/Vulnerability-Nessus-Lab) (Click for project details)
+ 
 - <b>Powershell</b>
   - [File Integrity Monitor](https://github.com/moeramadan/)
-
-- <b>Nessus</b>
-  - [Vulnerability Management Lab](https://github.com/moeramadan/)
 
 <h2>📜 Certifications</h2>
 
