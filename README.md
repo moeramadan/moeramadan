@@ -1,6 +1,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Remote-Keylogger</b>
+- <b>Remote Keylogger</b>
   - Developed a remote keylogger in Python disguised as a photo, enabling remote transmission of captured keystrokes.
   - Implemented techniques including executable compilation and WinRAR packaging for stealthy operation.
   - [Remote-Keylogger Repository](https://github.com/moeramadan/remote-keylogger) (Click for project details)
@@ -9,7 +9,7 @@
   - Utilized Wireshark, nmap, hashcat, and ettercap for network penetration testing, intrusion, reconnaissance, and traffic monitoring.
   - [Network Intrusion Documentation](https://github.com/moeramadan/Network-Intrusion) (Click for project details)
 
-- <b>Gophish</b>
+- <b>Gophish | HTML</b>
   - Developed custom HTML landing pages for phishing campaigns.
   - Implemented in a real case scenario in my organization.
   - [GoPhish Landing Pages Repository](https://github.com/moeramadan/GoPhish-Landing-Pages) (Click for published HTML code)
