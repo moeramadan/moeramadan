@@ -1,4 +1,4 @@
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
 - <b>Remote Keylogger</b>
   - Developed a remote keylogger in Python disguised as a photo, enabling remote transmission of captured keystrokes.
